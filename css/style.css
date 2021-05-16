@@ -28,6 +28,7 @@
    }
 
    .contents-wrapper {
+     margin: 18px;
      height: 100%;
      width: 82%;
      background-image: url("/images/techfeelo.png");
